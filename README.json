@@ -1,0 +1,14 @@
+{
+  "project": "SamMemory",
+  "creator": "Ravi",
+  "summary": "Personal memory system using Git + JSON. Logs ideas, emotions, conversations, and tasks. Focused on emotional clarity and long-term system building.",
+  "start_date": "2025-03-28",
+  "philosophy": "Emotion-backed logic. Minimalism. Real progress.",
+  "structure": [
+    "Ideas",
+    "EmotionalLogs",
+    "Conversations",
+    "Tasks",
+    "System"
+  ]
+}

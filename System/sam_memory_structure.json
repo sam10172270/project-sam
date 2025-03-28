@@ -1,0 +1,22 @@
+{
+  "repo": "Project Sam",
+  "structure": [
+    "Ideas",
+    "Tasks",
+    "EmotionalLogs",
+    "Conversations",
+    "System"
+  ],
+  "philosophy": "Build memory through plain JSON files. Track moods, insights, and tasks.",
+  "tools": [
+    "VS Code",
+    "Git",
+    "Markor/Obsidian"
+  ],
+  "future_cli": [
+    "sam recall",
+    "sam tag",
+    "sam sync",
+    "sam timeline"
+  ]
+}

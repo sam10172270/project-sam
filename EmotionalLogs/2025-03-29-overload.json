@@ -1,0 +1,15 @@
+{
+  "date": "2025-03-29",
+  "type": "emotional_log",
+  "tags": [
+    "emotion",
+    "overload",
+    "identity"
+  ],
+  "summary": "Weekly dump ritual, identity anchor, connection rule",
+  "rituals": {
+    "dump": "voice/text reflection on stress, pride, fear",
+    "anchor": "reconnect with core purpose weekly",
+    "connection": "talk to 2 people or log emotion into Sam"
+  }
+}
