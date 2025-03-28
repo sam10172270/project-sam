@@ -1,0 +1,44 @@
+{
+    "ideas": [
+        {
+            "date": "2025-03-27",
+            "title": "Sample Idea",
+            "content": "This is a placeholder for an idea you want Sam to remember.",
+            "tags": [
+                "example",
+                "idea"
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "date": "2025-03-27",
+            "task": "Sample task to be done.",
+            "status": "pending",
+            "tags": [
+                "task",
+                "todo"
+            ]
+        }
+    ],
+    "emotional_logs": [
+        {
+            "date": "2025-03-27",
+            "mood": "neutral",
+            "note": "This is an example log of your emotional state.",
+            "intensity": 5
+        }
+    ],
+    "conversations": [
+        {
+            "date": "2025-03-27",
+            "summary": "Sample conversation summary here.",
+            "people": [
+                "self"
+            ],
+            "tags": [
+                "conversation"
+            ]
+        }
+    ]
+}
