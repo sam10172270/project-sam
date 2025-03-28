@@ -1,6 +1,8 @@
 {
   "date": "2025-03-29",
   "type": "emotional_log",
+  "mood": 6,
+"energy": 5,
   "tags": [
     "emotion",
     "overload",
