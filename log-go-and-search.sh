@@ -10,15 +10,19 @@ if [ -z "$LOG_TYPE" ] || [ -z "$LOG_KEY" ]; then
   exit 1
 fi
 
-# Create the log file
-LOG_DATE=$(date +%F)
-FILENAME="${LOG_KEY// /_}.json"
+# Replace spaces and special characters in the title with underscores
+LOG_KEY_CLEAN="${LOG_KEY// /_}"
+LOG_KEY_CLEAN="${LOG_KEY_CLEAN//\'/}"  # Remove single quotes for safety
+FILENAME="${LOG_KEY_CLEAN}.json"
 FILE_PATH="System/Logs/$LOG_TYPE/$FILENAME"
+
+# Create the directory if it doesn't exist
+mkdir -p "System/Logs/$LOG_TYPE"
 
 # Create the log content (You can customize this as needed)
 cat <<EOF > "$FILE_PATH"
 {
-    "date": "$LOG_DATE",
+    "date": "$(date +%F)",
     "log_type": "$LOG_TYPE",
     "tags": ["$LOG_KEY"],
     "file_path": "$FILE_PATH"
@@ -43,7 +47,7 @@ except FileNotFoundError:
 metadata = {
     'type': '$LOG_TYPE',
     'tags': ['$LOG_KEY'],
-    'date': '$LOG_DATE',
+    'date': '$(date +%F)',
     'file_path': '$FILE_PATH'
 }
 

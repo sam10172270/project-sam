@@ -1,0 +1,12 @@
+{
+    "logs": [
+        {
+            "type": "mood",
+            "tags": [
+                "Ravis Mood Log"
+            ],
+            "date": "2025-03-29",
+            "file_path": "System/Logs/mood/Ravis_Mood_Log.json"
+        }
+    ]
+}
