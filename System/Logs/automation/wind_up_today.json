@@ -1,20 +1,13 @@
 {
-    "date": "2025-03-29",
-    "log_type": "automation",
-    "emotions": ["calm", "focused", "positive"],
-    "decisions": [
-        "Focus on staying grounded",
-        "Track emotional progress"
-    ],
-    "insights": [
-        "Daily emotional tracking helps build awareness",
-        "Small, consistent actions create long-term change"
-    ],
-    "actions_taken": [
-        "Created a structure for emotional reflection",
-        "Committed to daily check-ins"
-    ],
-    "conversation_tags": ["mood", "emotional health", "awareness"],
-    "source": "user-log",
-    "notes": "This log reflects the state of mind and emotional well-being for the day, with a focus on tracking mood and setting emotional goals."
+  "title": "wind_up_today.json",
+  "timestamp": "2025-03-29 23:08:45",
+  "type": "mood+execution",
+  "summary": {
+    "loop_001": "Zain pitch built, executed, blocked by LinkedIn — rescheduled after 3 weeks",
+    "loop_002": "XTTS TTS pipeline paused, deep learning block scheduled for 31 March–1 April",
+    "emotional_state": "High-performance output with sudden exhaustion, minor crash, emotional release, stabilized by structured reflection",
+    "system_usage": "Custom log-go.sh logging system used live for mood capture and automated Git push to logs-staging",
+    "recovery_action": "Opted for night journaling, no late work, protected circadian rhythm and bipolar baseline intentionally"
+  },
+  "status": "Day closed successfully. All active loops logged and deferred appropriately. Mental state: grounded."
 }
