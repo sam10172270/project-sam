@@ -1,57 +1,44 @@
 #!/bin/bash
 
-# Map short keys to full types
-declare -A TYPES
-TYPES=( ["gen"]="general" ["m"]="mood" ["h"]="health" ["t"]="trauma" ["c"]="creativity" ["w"]="work" ["r"]="routine" ["ref"]="reflection" ["p"]="productivity" ["a"]="automation" )
+# === Config ===
+LOG_DIR="System"
+SUMMARY_FILE="$LOG_DIR/compressed-log-summary.json"
+LOG_PATTERN1="2025-03-29-*.json"
+LOG_PATTERN2="2025-03-30-*.json"
 
-# Set default type if no type is provided
-TYPE="${TYPES[$1]:-general}"  # Default to 'general' if no match
-KEY="$2"                      # Passed as argument (e.g., 'Ravi's Mood Log')
+# Detect current Git branch
+CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 
-# Check if KEY is provided
-if [ -z "$KEY" ]; then
-  echo "Please provide the KEY (e.g., 'Ravi's Mood Log') as an argument."
-  exit 1
-fi
+# === Collect + Compress ===
+echo "Compressing logs into summary..."
 
-# Convert spaces to underscores for filenames
-FILENAME="${KEY// /_}.json"
+compressed_data="{\n  \"date_range\": \"2025-03-29 to 2025-03-30\",\n  \"summary_logs\": ["
 
-# Create the appropriate folder if it doesn't exist
-mkdir -p "System/Logs/$TYPE"
+for file in $LOG_DIR/$LOG_PATTERN1 $LOG_DIR/$LOG_PATTERN2; do
+  if [[ -f \"$file\" ]]; then
+    content=$(jq 'del(.conversation_tags, .source, .notes) | {source_file: input_filename, emotions, decisions, insights, actions_taken}' \"$file\")
+    compressed_data+="\n    $content,"
+  fi
+  done
 
-# Generate the log content
-cat <<EOF > "System/Logs/$TYPE/$FILENAME"
-{
-    "date": "$(date +%F)",
-    "log_type": "$TYPE",
-    "emotions": ["calm", "focused", "positive"],
-    "decisions": [
-        "Focus on staying grounded",
-        "Track emotional progress"
-    ],
-    "insights": [
-        "Daily emotional tracking helps build awareness",
-        "Small, consistent actions create long-term change"
-    ],
-    "actions_taken": [
-        "Created a structure for emotional reflection",
-        "Committed to daily check-ins"
-    ],
-    "conversation_tags": ["mood", "emotional health", "awareness"],
-    "source": "user-log",
-    "notes": "This log reflects the state of mind and emotional well-being for the day, with a focus on tracking mood and setting emotional goals."
-}
-EOF
+# Trim trailing comma + close JSON
+compressed_data=${compressed_data%,}
+compressed_data+="\n  ]\n}"
 
-# Add the new log to Git
-git add "System/Logs/$TYPE/$FILENAME"
+echo -e "$compressed_data" > "$SUMMARY_FILE"
+echo "✅ Logs compressed to: $SUMMARY_FILE"
 
-# Commit with the message
-git commit -m "log: auto-push ($FILENAME)"
+# === Clean Raw Logs ===
+echo "Deleting original log files..."
+find "$LOG_DIR" -name "$LOG_PATTERN1" -delete
+find "$LOG_DIR" -name "$LOG_PATTERN2" -delete
 
-# Push to logs-staging branch
-git push origin logs-staging
+echo "🧹 Deleted raw logs."
 
-# Confirm push
-echo "✅ $FILENAME pushed to logs-staging"
+# === Git Commit ===
+echo "Adding to git..."
+git add "$SUMMARY_FILE"
+git commit -m "Compressed & cleaned logs via log-go"
+git push origin "$CURRENT_BRANCH"
+
+echo "🚀 log-go complete. System is clean + pushed to $CURRENT_BRANCH."
