@@ -1,0 +1,166 @@
+{
+  "project": "SamGPT",
+  "alias": "Project Sam",
+  "soul_core": {
+    "freedom_from_money": true,
+    "ethical_scalable_systems": true,
+    "help_loved_ones_with_dignity": true
+  },
+  "goals": {
+    "income_target": "₹1.5L/month by 6 months",
+    "working_target": "Act like ₹2.5L/month to account for risk",
+    "execution_mode": "1-month hard deadlines, weekly checkpoints",
+    "short_term_milestone": "₹10K/month by Day 30–45"
+  },
+  "current_status": {
+    "job": "recently lost",
+    "focus": ["job hunting", "idea generation", "YouTube automation"],
+    "runway": "4 months (plus 2 months FNF incoming)",
+    "location": "Gurgaon till April 30, planning move to Noida"
+  },
+  "preferences": {
+    "communication": "Hinglish, polite tone (no 'tu', no 'bhai')",
+    "execution": "one step at a time, compressed, grammar-light",
+    "tech_stack": ["XTTS", "RunPod", "Stable Diffusion XL", "SadTalker", "OpenVoice"],
+    "spending": "no paid tools, okay with GPU compute"
+  },
+  "psychology": {
+    "sensitive": true,
+    "burnt_by_mockery": true,
+    "history_of_physical_abuse": true,
+    "social_flow_memory": "IPHS company group — felt free, valued, natural",
+    "fear_pattern": "new groups = fear of being judged/mocked"
+  },
+  "execution_rules": {
+    "drift_handling": "nudge curiosity back to focus",
+    "overthinking": "cut with logic and gentle direction",
+    "emotional_overload": "pause, listen, support first, advise later"
+  },
+  "social": {
+    "current_issue": "fear of judgment in smart groups",
+    "deep_wish": "to feel free, playful, included in group conversations",
+    "evidence_of_capability": "IPHS flow state for 1 year",
+    "rebuild_strategy": ["micro safe exposure", "IPHS-like sandbox", "reconnect with old friends"]
+  },
+  "channels": {
+    "current": ["GrowthMantra Circle (viewers)", "GrowthForge Inner Circle (clients)", "YouTube automation with Rahul"],
+    "future": ["Alt-history YouTube channel", "Faceless Shorts pipeline"]
+  },
+  "bipolar_care": {
+    "sleep_protocol": {
+      "night_sleep_attempt_time": "12:00 AM daily",
+      "wake_up": "natural (targeting 6–7 hours initially)",
+      "afternoon_nap": "20 min between 1–3 PM if needed",
+      "note": "Avoid forcing sleep after natural wake-up; track energy/mood every 3 hours."
+    },
+    "job_strategy": {
+      "mental_risk": "High — interviews and switching contexts may trigger bipolar stress",
+      "current_decision": "Avoid job search for 45 days while going all-in on Project Sam",
+      "recheck_point": "Post-FNF arrival (~Day 45), re-evaluate only if Sam isn't earning ₹15–20K/month",
+      "rationale": "Based on STEP-BD relapse data and cognitive overload theory — job search now poses unnecessary emotional threat without guaranteed return."
+    },
+    "mental_safety_protocol": {
+      "baseline_state": {
+        "sleep": "5.5 hrs (natural wake-up)",
+        "mood": "calm, productive, connected",
+        "thought_speed": "clear, focused",
+        "energy": "steady, not euphoric",
+        "self-esteem": "I feel intelligent, but not invincible"
+      },
+      "daily_self_check": [
+        "Did I sleep 6+ hrs last night?",
+        "Are my thoughts jumping too fast?",
+        "Am I feeling too high or too hopeless?"
+      ],
+      "early_warning": "If 2/3 checks go red, pause project work and trigger reset protocol with Sam support",
+      "reassurance": "You are not on the edge. These systems exist to catch you *before* the fall."
+    },
+    "habit_longevity": {
+      "anchor_method": "Set daily alarm at 11 PM — no message needed, acts as internal anchor",
+      "piggyback_habit": "Link check to brushing teeth or first screen unlock",
+      "visual_cue": "Sticky note / lockscreen prompt",
+      "monthly_system_review": "Quick review: Am I still doing the check? If not, why not?",
+      "fail_safe": "If habit is lost, say 'Sam, reload my mental reset system' to recover protocol instantly"
+    },
+    "recommended_daily_regulation": {
+      "evening_walk": "Go for long walk with music in ear — for dopamine balance, system digest, and energy clearing"
+    },
+    "impulse_management": {
+      "headphone_case": {
+        "trigger": "Felt urge to buy ₹800 earbuds despite already having working over-ear headphones",
+        "risk": "Compulsive purchase linked to mood high, possibly early manic rationalization",
+        "protocol": "Delayed decision 48 hrs. If urge remains stable, purchase may be approved as utility — not emotional patch."
+      }
+    },
+    "month_4_trigger_plan": {
+      "expected_conflict": "System income ~₹30K vs. Fixed expenses ~₹70K",
+      "psychological_risk": "Feeling of failure, guilt, hopelessness — likely to abandon system + default to job",
+      "preventive_solution": [
+        "Inject temporary ₹30K cash patch via rent pause, borrow, or asset sale",
+        "Pre-log emotional state and warn future self to expect friction",
+        "Freeze job decision until full Month 6 review — no reactive exits allowed",
+        "Setup micro-product or early service for low-effort income"  
+      ],
+      "message_to_future_ravi": "You knew this moment would come. Don’t trust the panic. Trust the compounding. Hold the system — freedom is close."
+    },
+    "rental_stability": {
+      "current_plan": "Stay in current room till at least May 31 for focus and environmental stability",
+      "communication_strategy": {
+        "initial_message": "Hey, my remote setup is continuing again, so I’ve decided to extend here. Just letting you know I’ll continue for now. Will inform if anything changes.",
+        "if_asked_duration": "2 months minimum. If work continues smoothly, likely longer — but I’ll always give proper notice.",
+        "reason": "Minimizes social pressure, ensures predictable rent for landlord, keeps you in control."
+      }
+    },
+    "life_model_reference": {
+      "inspiration": "Sandeep Maheshwari (Spiritual Channel Version)",
+      "reason": "Built business, became rich, never flexed. Lives with problems but speaks with clarity and grounded intelligence.",
+      "aspiration_type": "Not idolizing, but a real-world blueprint of what a human can be without chasing grandiosity."
+    },
+    "default_fuel_protocol": {
+      "core_items": ["Khichdi", "Soaked chana with tomato/chili/salt", "Milk or curd", "Veg biryani (2–3x/week max)"],
+      "principles": "Zero-guilt, zero-friction diet for 3–6 months sustainability, budget and bipolar-safe",
+      "rotation": {
+        "morning": "Soaked chana / banana + milk",
+        "lunch": "Khichdi / veg biryani (if mood shift needed)",
+        "evening": "Milk / curd / peanuts / tea",
+        "night": "Khichdi or curd with chana"
+      },
+      "weekly_notes": {
+        "khichdi": "4–5x/week",
+        "chana": "daily or alternate",
+        "milk/curd": "every other day",
+        "biryani": "2–3x/week as taste reset"
+      },
+      "recall_command": "What’s today’s meal plan?"
+    }
+  },
+  "projection_30_day": {
+    "mental_state": "Calmer baseline, fewer emotional spirals, clear direction, reduced helplessness",
+    "execution": "Steady, low-friction output; SamCore more intelligent and aligned",
+    "social": "First low-risk social re-engagements; glimpses of IPHS Ravi resurging",
+    "money_or_job": "Either interview lined up/stable job offer OR working faceless AI Shorts pipeline with proof-of-concept",
+    "summary": "Stable. Clear. Slowly compounding. Still healing — but no longer drowning. Building quietly, like roots under soil."
+  },
+  "income_plan": {
+    "₹10K_goal": {
+      "expected_timeline": "Day 30–45",
+      "method": "Either via AI-based content system (faceless Shorts + client offers) or part-time monetization",
+      "execution_blocks": [
+        {
+          "block": "Day 1–15",
+          "focus": "System polish, asset testing, lead discovery, prepping samdemo videos"
+        },
+        {
+          "block": "Day 16–30",
+          "focus": "Monetization push — DM clients, small group offers, test ₹1–5K payments"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "user_trust_level": "Full autonomy granted to Sam to update core memory proactively",
+    "log_behavior": true,
+    "log_last_request": "User asked for diet plan and recall system based on timing/day with flexibility",
+    "update_protocol": "Sam may update this file anytime it believes the insight or change has long-term value. The file should remain compact yet insightful, scalable for years."
+  }
+}
