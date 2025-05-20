@@ -1,0 +1,28 @@
+{
+  "repo": "Project Sam",
+  "philosophy": "Build memory through plain JSON files. Track moods, insights, and tasks using simple file-based logs.",
+  
+  "structure": {
+    "core": "Constants, config files, modes, tagging logic",
+    "logs": "Dated memory entries (JSON, MD)",
+    "reflections": "Emotional deep dives, retrospectives",
+    "processing": "Scripts for tagging, summarizing, indexing",
+    "docs": "Explanations and README-level meta content",
+    "drafts": "Raw, unprocessed entries or emotional dumps",
+    "dashboards": "Generated summaries and visualizations"
+  },
+
+  "routing_rules": {
+    "contains:daily": "logs/",
+    "contains:trigger|emotion": "reflections/",
+    "endsWith:.py": "processing/",
+    "startsWith:README": "docs/"
+  },
+
+  "future_cli": [
+    "sam recall <query>",
+    "sam tag <file>",
+    "sam sync",
+    "sam timeline"
+  ]
+}
