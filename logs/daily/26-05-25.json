@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-05-26T23:00:00",
+  "summary": "Tanvi left today, so I was alone. I did nothing productive—only responded to OLX applications but got no calls. I need to focus on what I can control to move forward. Reflected on jobs and priorities; I should learn video editing for uploads. Must fix my broken daily routine.",
+  "mood": "Anxious, Stable",
+  "emotion": "Mixed",
+  "status": {
+    "mood_level": "7",
+    "sleep_quality": "8",
+    "sleep_duration": "6",
+    "energy_level": "7",
+    "stability_score": "4"
+  },
+  "insights": {
+    "wins": [
+      "Talked to my father after a long time (was ignoring him earlier)",
+      "Stable mood—recovered quickly from interview-related stress"
+    ],
+    "losses": [
+      "Expected interview selection but didn’t get it",
+      "Another interview call came (uncertainty)"
+    ],
+    "ideas": [
+      "Create a YouTube channel to practice video editing (long-term skill with no downside)",
+      "Consistent uploads will help build a valuable skill"
+    ]
+  },
+  "goals": [
+    "Uploaded video (done)",
+    "Worked on UBI preparation",
+    "Interview preparation (none)"
+  ],
+  "tags": [
+    "positive"
+  ],
+  "trigger_events": [
+    "Interview call didn’t come (expected selection)",
+    "Broke daily routine",
+    "YouTube channel videos not getting picked by algorithm"
+  ],
+  "symptom_checklist": [
+    "Elevated mood (feeling more positive than usual, possibly above baseline)"
+  ]
+}
