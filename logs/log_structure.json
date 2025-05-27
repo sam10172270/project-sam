@@ -1,0 +1,29 @@
+{
+    "timestamp": "2025-05-19T23:30:00Z",
+    "summary": "",
+    "mood": "",
+    "emotion": "",
+    "status": {
+        "mood_level": "",
+        "sleep_quality": "",
+        "sleep_duration": "",
+        "energy_level": "",
+        "stability_score": ""
+    },
+    "insights": {
+        "wins": [],
+        "losses": [],
+        "ideas": []
+    },
+    "goals": [
+        {
+            "id":"",
+            "name": "",
+            "progress": "",
+            "next_steps": ""
+        }
+    ],
+    "tags": [],
+    "trigger_events": [],
+    "symptom_checklist": []
+}
