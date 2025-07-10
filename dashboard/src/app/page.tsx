@@ -128,11 +128,13 @@ export default function Home() {
       });
   }, []);
 
-  // Apply filters
-  const filteredMoodData = moodData.filter((d) => {
-    const dateOk = (!startDate || d.date >= startDate) && (!endDate || d.date <= endDate);
-    return dateOk;
-  });
+  // Apply filters and sort by date ascending (oldest first)
+  const filteredMoodData = moodData
+    .filter((d) => {
+      const dateOk = (!startDate || d.date >= startDate) && (!endDate || d.date <= endDate);
+      return dateOk;
+    })
+    .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
 
   // Quick filter functions
   const setLastDays = (days: number) => {
@@ -170,7 +172,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gray-900 p-8">
-      <h1 className="text-3xl font-bold mb-8 text-center">Personal Dashboard</h1>
+      <h1 className="text-3xl font-bold mb-8 text-center">SAM Analytics</h1>
       {/* Filters */}
       <div className="flex flex-wrap gap-4 mb-8 items-end justify-center">
         <div>
@@ -214,12 +216,69 @@ export default function Home() {
           >
             Last 30 Days
           </button>
+          <button
+            onClick={() => {
+              if (moodData.length > 0) {
+                setStartDate(moodData[0].date);
+                setEndDate(moodData[moodData.length - 1].date);
+              }
+            }}
+            className="px-3 py-1 bg-indigo-600 hover:bg-indigo-700 text-white rounded text-sm"
+          >
+            Lifetime
+          </button>
         </div>
       </div>
-      {/* Remove all chart cards for now */}
-      <div className="flex flex-col items-center justify-center min-h-[400px]">
-        <h2 className="text-2xl text-gray-300 mt-12">Welcome to your Sadboat Dashboard</h2>
-        <p className="text-gray-400 mt-2">Graphs are temporarily disabled for troubleshooting.</p>
+      {/* Graphs in requested order */}
+      <div className="flex flex-col gap-8 max-w-3xl mx-auto">
+        {/* Sleep Duration Chart */}
+        <ChartCard title="Sleep Duration (hours)">
+          <ResponsiveContainer width="100%" height={250}>
+            <LineChart data={filteredMoodData.filter(d => d.sleep_duration)} margin={{ top: 20, right: 20, left: 0, bottom: 0 }}>
+              <CartesianGrid strokeDasharray="3 3" stroke="#444" />
+              <XAxis dataKey="date" tick={{ fontSize: 13, fontWeight: 600, fill: '#fff' }} stroke="#fff" tickFormatter={formatDateLabel} />
+              <YAxis tick={{ fontSize: 13, fontWeight: 600, fill: '#fff' }} stroke="#fff" />
+              <Tooltip contentStyle={{ background: '#222', color: '#fff', border: '1px solid #444' }} labelStyle={{ color: '#fff' }} labelFormatter={formatDateLabel} />
+              <Line type="monotone" dataKey="sleep_duration" stroke="#38bdf8" strokeWidth={2} dot={false} />
+            </LineChart>
+          </ResponsiveContainer>
+        </ChartCard>
+        {/* Mood Chart */}
+        <ChartCard title="Mood Over Time">
+          <ResponsiveContainer width="100%" height={250}>
+            <LineChart data={filteredMoodData} margin={{ top: 20, right: 20, left: 0, bottom: 0 }}>
+              <CartesianGrid strokeDasharray="3 3" stroke="#444" />
+              <XAxis dataKey="date" tick={{ fontSize: 13, fontWeight: 600, fill: '#fff' }} stroke="#fff" tickFormatter={formatDateLabel} />
+              <YAxis domain={[0, 10]} tick={{ fontSize: 13, fontWeight: 600, fill: '#fff' }} stroke="#fff" />
+              <Tooltip contentStyle={{ background: '#222', color: '#fff', border: '1px solid #444' }} labelStyle={{ color: '#fff' }} labelFormatter={formatDateLabel} />
+              <Line type="monotone" dataKey="mood" stroke="#6366f1" strokeWidth={2} dot={false} />
+            </LineChart>
+          </ResponsiveContainer>
+        </ChartCard>
+        {/* Energy Levels Chart */}
+        <ChartCard title="Energy Levels">
+          <ResponsiveContainer width="100%" height={250}>
+            <LineChart data={filteredMoodData.filter(d => d.energy_level)} margin={{ top: 20, right: 20, left: 0, bottom: 0 }}>
+              <CartesianGrid strokeDasharray="3 3" stroke="#444" />
+              <XAxis dataKey="date" tick={{ fontSize: 13, fontWeight: 600, fill: '#fff' }} stroke="#fff" tickFormatter={formatDateLabel} />
+              <YAxis domain={[0, 10]} tick={{ fontSize: 13, fontWeight: 600, fill: '#fff' }} stroke="#fff" />
+              <Tooltip contentStyle={{ background: '#222', color: '#fff', border: '1px solid #444' }} labelStyle={{ color: '#fff' }} labelFormatter={formatDateLabel} />
+              <Line type="monotone" dataKey="energy_level" stroke="#f59e0b" strokeWidth={2} dot={false} />
+            </LineChart>
+          </ResponsiveContainer>
+        </ChartCard>
+        {/* Sleep Quality Chart */}
+        <ChartCard title="Sleep Quality">
+          <ResponsiveContainer width="100%" height={250}>
+            <LineChart data={filteredMoodData.filter(d => d.sleep_quality)} margin={{ top: 20, right: 20, left: 0, bottom: 0 }}>
+              <CartesianGrid strokeDasharray="3 3" stroke="#444" />
+              <XAxis dataKey="date" tick={{ fontSize: 13, fontWeight: 600, fill: '#fff' }} stroke="#fff" tickFormatter={formatDateLabel} />
+              <YAxis domain={[0, 10]} tick={{ fontSize: 13, fontWeight: 600, fill: '#fff' }} stroke="#fff" />
+              <Tooltip contentStyle={{ background: '#222', color: '#fff', border: '1px solid #444' }} labelStyle={{ color: '#fff' }} labelFormatter={formatDateLabel} />
+              <Line type="monotone" dataKey="sleep_quality" stroke="#10b981" strokeWidth={2} dot={false} />
+            </LineChart>
+          </ResponsiveContainer>
+        </ChartCard>
       </div>
     </div>
   );

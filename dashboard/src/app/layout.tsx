@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Personal Dashboard",
-  description: "Your mood and life analytics dashboard",
+  title: "SAM Analytics",
+  description: "Your mood and life analytics dashboard (SAM Analytics)",
 };
 
 const navLinks = [
@@ -42,7 +42,7 @@ export default function RootLayout({
         <div className="flex min-h-screen">
           {/* Sidebar */}
           <aside className="w-56 bg-gray-950 border-r border-gray-700 flex flex-col p-4 gap-2 shadow-sm">
-            <div className="text-2xl font-bold mb-6 text-indigo-400">Sadboat</div>
+            <div className="text-2xl font-bold mb-6 text-indigo-400">SAM Analytics</div>
             <nav className="flex flex-col gap-2">
               {navLinks.map((link) => (
                 <Link
