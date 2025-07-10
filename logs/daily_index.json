@@ -1,0 +1,1491 @@
+[
+  {
+    "file_path": "logs/daily/23-05-25.json",
+    "timestamp": "now",
+    "summary": "It was a normal day I didn't do anything I just uploaded a video and just passed my day without any progress also know backward progress so it was decently moderate",
+    "mood": "Calm",
+    "emotion": "hopeful",
+    "status": {
+      "mood_level": "6",
+      "sleep_quality": "9",
+      "sleep_duration": "10",
+      "energy_level": "6",
+      "stability_score": "7"
+    },
+    "insights": {
+      "wins": [
+        "survived without any downside",
+        "was able to communicate with tanvi and got few differences sorted"
+      ],
+      "losses": [],
+      "ideas": []
+    },
+    "goals": [
+      "video upload done",
+      "project sam no progress",
+      "ubi progress none",
+      "interview none"
+    ],
+    "tags": [
+      "stagnant",
+      "positive"
+    ],
+    "trigger_events": [
+      "tongue pain",
+      "didn't go to attend Anil's wedding - sad",
+      "interview tomorrow stress"
+    ],
+    "symptom_checklist": [
+      "tongue pain",
+      "broken daily routine"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-15T23_21_28Z.json",
+    "timestamp": "2025-06-15T23:21:28Z",
+    "summary": "A calm-before-the-storm kind of day. Landed at a transitional threshold \u2014 tomorrow marks Day 1 of a new chapter. Emotions were mixed but manageable: ambient anxiety with brief stress spikes, tempered by a rational awareness that things are now moving forward. Relief is present but hasn\u2019t fully sunk in, like background music not yet noticed. Body is still processing the end of a long-wait loop. The mind is scanning ahead while the heart is catching up.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "4",
+      "sleepQuality": "3",
+      "sleepDuration": "3",
+      "energyLevel": "3",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [
+        "Reached destination without burnout",
+        "Held emotional awareness throughout the day"
+      ],
+      "losses": [
+        "Couldn't fully access the feeling of relief"
+      ],
+      "ideas": [
+        "Set a post-Day-1 ritual to let the nervous system fully transition"
+      ]
+    },
+    "goals": [
+      "Observe the new company quietly and attentively",
+      "Identify one key person to learn from",
+      "Avoid overperforming on Day 1"
+    ],
+    "tags": [
+      "new_chapter",
+      "transition",
+      "emotional_processing",
+      "work_journey"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "mild anxiety",
+      "incomplete emotional resolution",
+      "low-level stress blips"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2925-07-08T23_53_43Z.json",
+    "timestamp": "2025-07-09T00:20:09Z",
+    "summary": "Day moved with sluggish baseline. Emotionally flat but functionally steady. Cigarette and food spending spiked again\u2014SpendMirror exposing it clearly now. Relationship detachment still hovering in background. Low mood but no crash. Execution continues, barely.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "4",
+      "sleepQuality": "4",
+      "sleepDuration": "5",
+      "energyLevel": "4",
+      "stabilityScore": "3"
+    },
+    "insights": {
+      "wins": [],
+      "losses": [
+        "Expenses on food and cigarettes remain high",
+        "SpendMirror highlights repetitive spending loops"
+      ],
+      "ideas": []
+    },
+    "goals": [
+      "Fix bugs in SpendMirror",
+      "Update SAM Studio logger",
+      "Start Tutor App core"
+    ],
+    "tags": [
+      "numb",
+      "neutral",
+      "good effort",
+      "breakup pain",
+      "low confidence"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "low mood",
+      "suicidal ideation",
+      "sleeping less"
+    ]
+  },
+  {
+    "file_path": "logs/daily/19-05-25.json",
+    "timestamp": "2025-05-19T23:30:00Z",
+    "summary": "Woke unusually late after 12+ hours of sleep. No signs of depression or emotional drag. Lithium and lorazepam were taken, but no lamotrigine. Energy level was low-voltage but emotionally clear. Mental state was slow but not fogged \u2014 reflections continued, video content reviewed, and visual AI prompt construction progressed. Suppressed content views were investigated without overreaction. Mood remained flat but functional. No impulsive activity, no craving spikes, no performance spiral. Calmness seen as integration phase, not collapse.",
+    "mood": "4.5 \u2014 emotionally stable, slightly flat, mild detachment without drag",
+    "emotion": "soft-neutral, clear-headed, no elevation or sadness",
+    "status": null,
+    "insights": null,
+    "goals": null,
+    "tags": [
+      "deep-rest",
+      "stable-slow-mode",
+      "non-depressive-sleep-extension",
+      "routine-preserved",
+      "low-energy-clear-mind",
+      "drift-zero",
+      "emotion-accessible"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": null
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-23T23_28_35Z.json",
+    "timestamp": "2025-06-23T23:28:35Z",
+    "summary": "Today marked a psychological inflection point in Quant prep. A shift from external app-dependence to building a personalized, distraction-free, system-driven strategy. Clear rejection of dopamine-based platforms in favor of self-coded structure. Emotional and cognitive alignment started syncing again, driven by the 'clear cutoff' goal, not perfectionism. Execution momentum is still low, but clarity is high.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "7",
+      "sleepDuration": "7",
+      "energyLevel": "4",
+      "stabilityScore": "7"
+    },
+    "insights": {
+      "wins": [
+        "Clarified that apps like Unacademy/Testbook are traps unless used sniper-style",
+        "Reframed Quant prep into a system-builder identity (QCKS)",
+        "Defined lean syllabus that matches cognitive ROI: simplification, series, quadratics, basic DI, core arithmetic"
+      ],
+      "losses": [
+        "No quant drill was actually executed today \u2014 still in prep-the-prep loop",
+        "Past app-hopping behavior resurfaced as doubt while evaluating Unacademy"
+      ],
+      "ideas": [
+        "Build own offline Flutter app to log quant drills like SAM \u2014 same mental pattern reuse",
+        "Use JSONL logs to track quant prep as code not just effort \u2014 version control mindset",
+        "Design quant flashcards and Q-tracker with emotional triggers (e.g., 'I\u2019m a clarity-hitter, not a syllabus-eater')"
+      ]
+    },
+    "goals": [
+      "Set up /quant-prep-qcks/ folder with logs, question sets, and tricks.md",
+      "Complete Day 1 drill: 20 simplification questions, log accuracy",
+      "Avoid opening Unacademy/Testbook without sniper-level intent"
+    ],
+    "tags": [
+      "quantPrep",
+      "systemDesign",
+      "dopamineTrapAwareness",
+      "identityHack",
+      "cutoffStrategy"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "mild low energy",
+      "low activation inertia",
+      "high clarity",
+      "low emotional volatility"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-14T23_55_59Z.json",
+    "timestamp": "2025-06-14T23:55:59Z",
+    "summary": "today was where I am packed my bags and prepared for leaving to Delhi to the new job. it is a turning point in Life. let see what happen ",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "6",
+      "sleepQuality": "6",
+      "sleepDuration": "9",
+      "energyLevel": "4",
+      "stabilityScore": "5"
+    },
+    "insights": {
+      "wins": [],
+      "losses": [],
+      "ideas": []
+    },
+    "goals": [],
+    "tags": [
+      "stable"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": []
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-19T00_23_10Z.json",
+    "timestamp": "2025-06-19T00:23:10Z",
+    "summary": "A day of strong emotional and financial grounding. Recalibrated long-term money strategy, mapped out debt recovery, and acknowledged emotional patterns around guilt and self-sacrifice. No overwhelming mood spikes or social friction. Calm awareness with forward focus.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "8",
+      "sleepDuration": "7",
+      "energyLevel": "4",
+      "stabilityScore": "8"
+    },
+    "insights": {
+      "wins": [
+        "Mapped 6-month debt-clearance and savings plan",
+        "Accepted past trauma without emotional hijack",
+        "Realized current self is stronger than old survival version"
+      ],
+      "losses": [
+        "Lingering fear of bipolar relapse during job instability",
+        "Occasional guilt memory loops triggered by financial flashbacks"
+      ],
+      "ideas": [
+        "Create a 2-shield protocol (Mind + Market) as permanent buffer",
+        "Start SIPs post-debt to accelerate long-term compounding",
+        "Plan a tangible legacy gift for Dad instead of recurring cash bleed"
+      ]
+    },
+    "goals": [
+      "Stick to debt repayment timeline (June\u2013August)",
+      "Build \u20b960\u201370k emergency fund by September",
+      "Avoid emotional decision-making during manic or distorted states"
+    ],
+    "tags": [
+      "finance_clarity",
+      "emotional_resolve",
+      "long_term_planning",
+      "bipolar_management"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "mild future worry (bipolar/job market)",
+      "mental clarity sustained throughout the day",
+      "no anxiety, no hypomania",
+      "low social stimulation"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-05-30T03_14_52Z.json",
+    "timestamp": "2025-05-30T03:14:52Z",
+    "summary": "Today was different as i am experimenting sleep change, like going to sleep at 6am till 1 pm  Rest it was productive day but financial bad decesion on food and cigarettes ",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "6",
+      "sleepQuality": "7",
+      "sleepDuration": "12",
+      "energyLevel": "6",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [
+        "I remained stable",
+        "created flash card app"
+      ],
+      "losses": [
+        "financial bad decesion",
+        "lazy pay unnecessary expenses"
+      ],
+      "ideas": [
+        "flash card app",
+        "tutor app"
+      ]
+    },
+    "goals": [],
+    "tags": [
+      "sleep routine change",
+      "bad financial decesions",
+      "postive",
+      "productive"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "neutral",
+      "elevated energy"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-08T23_50_53Z.json",
+    "timestamp": "2025-06-08T23:50:53Z",
+    "summary": "today at travel back from Delhi to Lucknow whole day went into travel and nothing more to share feeling better after reaching home",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "4",
+      "sleepQuality": "7",
+      "sleepDuration": "10",
+      "energyLevel": "4",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [
+        "stayed positive"
+      ],
+      "losses": [
+        "stabl3"
+      ],
+      "ideas": []
+    },
+    "goals": [],
+    "tags": [
+      "stable"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "doubtful"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-03T23_05_54Z.json",
+    "timestamp": "2025-06-03T23:05:54Z",
+    "summary": "it was a good day I study I gave interview I got interview schedule I had healthy conversation with Tanvi and one another friend Sangeeta and mood is quite stable and happy in a normal state",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "8",
+      "sleepDuration": "8",
+      "energyLevel": "6",
+      "stabilityScore": "6"
+    },
+    "insights": {
+      "wins": [
+        "I give interview at antimo and advent really good. I have another interview schedule at Gurgaon at a company called wyom"
+      ],
+      "losses": [
+        "no YouTube video"
+      ],
+      "ideas": []
+    },
+    "goals": [
+      "studied well for interview",
+      "sleep was very good",
+      "ideal routine followed"
+    ],
+    "tags": [
+      "stable",
+      "productive"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "above average energy",
+      "stable mood"
+    ]
+  },
+  {
+    "file_path": "logs/daily/26-05-25.json",
+    "timestamp": "2025-05-26T23:00:00",
+    "summary": "Tanvi left today, so I was alone. I did nothing productive\u2014only responded to OLX applications but got no calls. I need to focus on what I can control to move forward. Reflected on jobs and priorities; I should learn video editing for uploads. Must fix my broken daily routine.",
+    "mood": "Anxious, Stable",
+    "emotion": "Mixed",
+    "status": {
+      "mood_level": "7",
+      "sleep_quality": "8",
+      "sleep_duration": "6",
+      "energy_level": "7",
+      "stability_score": "4"
+    },
+    "insights": {
+      "wins": [
+        "Talked to my father after a long time (was ignoring him earlier)",
+        "Stable mood\u2014recovered quickly from interview-related stress"
+      ],
+      "losses": [
+        "Expected interview selection but didn\u2019t get it",
+        "Another interview call came (uncertainty)"
+      ],
+      "ideas": [
+        "Create a YouTube channel to practice video editing (long-term skill with no downside)",
+        "Consistent uploads will help build a valuable skill"
+      ]
+    },
+    "goals": [
+      "Uploaded video (done)",
+      "Worked on UBI preparation",
+      "Interview preparation (none)"
+    ],
+    "tags": [
+      "positive"
+    ],
+    "trigger_events": [
+      "Interview call didn\u2019t come (expected selection)",
+      "Broke daily routine",
+      "YouTube channel videos not getting picked by algorithm"
+    ],
+    "symptom_checklist": [
+      "Elevated mood (feeling more positive than usual, possibly above baseline)"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-07-07T23_24_43Z.json",
+    "timestamp": "2025-07-08T01:58:50Z",
+    "summary": "Functional execution day. Emotional baseline steady but muted. Shipped code, walked 5k, stabilized expense awareness. No drift, no emotional volatility. Relationship closure mentally resolved but not disclosed\u2014held boundary. Internal clarity present, external expression minimal. Detached focus active.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "5",
+      "sleepDuration": "5",
+      "energyLevel": "5",
+      "stabilityScore": "6"
+    },
+    "insights": {
+      "wins": [
+        "Maintained execution clarity without emotional spikes",
+        "Completed 5k walk for regulation",
+        "Logged and confirmed SpendMirror visibility loop working"
+      ],
+      "losses": [
+        "Ordered cigarettes despite desire to quit",
+        "Mild expenditure control concerns remain"
+      ],
+      "ideas": [
+        "Install automated weekly feedback loop into SpendMirror",
+        "Design cold-start flow for Tutor App: MVP \u2192 Progress Tracking \u2192 Parent Dashboard",
+        "Block emotional re-engagement protocols for 7 days (no backward questions)"
+      ]
+    },
+    "goals": [
+      "Ship SpendMirror to Play Store within 7 days",
+      "Start Tutor App core structure post-ship",
+      "Maintain no backward questioning protocol until July 15"
+    ],
+    "tags": [
+      "build-mode",
+      "stability",
+      "emotional-detachment",
+      "system-aligned"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": []
+  },
+  {
+    "file_path": "logs/daily/dsily_2025-07-03T00_08_26Z.json",
+    "timestamp": "2025-07-04T00:22:15Z",
+    "summary": "Tightest self-map yet. Slap of truth felt grounding, not harsh. Logging turned from habit to leverage. Finally saw the cost of reinvention, reflection loops, and hiding behind systems. Mood steady, mind sharp. Emotional processing didn\u2019t derail the mission today \u2014 it refined it. Clarity emerged from confrontation. SAM fully justified.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "4",
+      "sleepDuration": "6",
+      "energyLevel": "6",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [
+        "Saw root loop of reinvention clearly \u2014 first time it *felt* real.",
+        "Logging re-framed from activity to weapon. Not just emotion capture \u2014 leverage.",
+        "Recognized false traits previously seen as strengths (e.g., trauma identity, over-systemizing)."
+      ],
+      "losses": [
+        "Realization that many past months were spent circling, not stacking.",
+        "Small sting seeing how many tools/ideas were started but not pushed to value."
+      ],
+      "ideas": [
+        "Create 'Execution Frame' overlay in SAM \u2014 shows what to focus on, what to ignore.",
+        "Hard-code a weekly_output_log check inside SAM \u2014 enforce 1 real thing per week.",
+        "Embed 'Brutal Mode' as callable audit tool tied to major decisions (job, product, pricing)."
+      ]
+    },
+    "goals": [
+      "Ship first monetizable AI-powered tool with locked scope.",
+      "Stick to weekly output rhythm \u2014 no pivot, no rebuild.",
+      "Integrate execution checkpoints inside SAM (output, momentum, leverage tracker)."
+    ],
+    "tags": [
+      "reinvention-loop",
+      "execution-shift",
+      "clarity-snap",
+      "logging-reborn",
+      "brutal-mode"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": []
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-11T23_01_21Z.json",
+    "timestamp": "2025-06-11T23:01:21Z",
+    "summary": "Day marked by heavy emotional inertia, low energy despite adequate sleep. Major shift: starting new job in a few days, but no sense of joy. Processing deeper questions of identity, meaning, and what this phase of life represents. Tutor App briefly surged as a serious calling, then intentionally shelved \u2014 signaling awareness of current energy limits. Overall, a still-point in the journey \u2014 not action, but reflection.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "7",
+      "sleepDuration": "10",
+      "energyLevel": "2",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [
+        "Acknowledged and respected current low-energy state instead of forcing productivity.",
+        "Recognized job as stability tool, not identity anchor.",
+        "Confirmed Tutor App as a valid deep calling, but postponed consciously."
+      ],
+      "losses": [
+        "Sense of emotional numbness despite achieving the long-awaited goal (new job).",
+        "Feeling disconnected from joy or clarity about the next step.",
+        "Heavy sleep inertia and dreamlike state making it hard to engage with reality."
+      ],
+      "ideas": [
+        "Anchor identity not through effort but through awareness during low-energy phases.",
+        "SAM logs are not just reflection tools, but memory nodes for future self to decode meaning.",
+        "Keep micro-rituals alive (1-line logs, presence journaling) to avoid spiritual drift."
+      ]
+    },
+    "goals": [
+      "Do not abandon self-awareness in the name of 'new job responsibilities'.",
+      "Anchor one habit: daily SAM micro-log even during job period.",
+      "Revisit Tutor App with clear timeline once energy stabilizes \u2014 do not let it die in silence."
+    ],
+    "tags": [
+      "identity",
+      "transition",
+      "low-energy",
+      "acceptance",
+      "clarity-in-stillness",
+      "job-start",
+      "sam-reflection"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "heavy sleep inertia",
+      "emotional flatness",
+      "mild existential fatigue",
+      "creative disconnection"
+    ]
+  },
+  {
+    "file_path": "logs/daily/21-05-25.json",
+    "timestamp": "2025-05-21T12:00:00Z",
+    "summary": "it was a normal day but I was not able to follow my daily routine. It was the first random day I had an interview at Unacademy round two, and it went bad but I still got cleared and have another round tomorrow. Apart from that, I had a call with Tanvi; she was guilty and was trying to clear things while talking to me,  I am unaffected.",
+    "mood": "4 (1 to 10)",
+    "emotion": "neutral, numb, hopeful",
+    "status": null,
+    "insights": null,
+    "goals": null,
+    "tags": [
+      "unacademy-interview"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": null
+  },
+  {
+    "file_path": "logs/daily/16-05-25.json",
+    "timestamp": "2025-05-16T23:45:00Z",
+    "summary": "Interview postponed unexpectedly, but mood lifted \u2014 interpreted as an opportunity window for sharper prep. Hope mildly restored. Decision made to discontinue Lamotrigine due to high cost and emotional flattening \u2014 acknowledged as high-risk. Strong commitment made to strict sleep timing and routine as guardrails. Idea loop re-activated: interest in phone usage-based behavioral logging for SAM. System-wide introspection intact.",
+    "mood": "slightly hopeful with firm rational control",
+    "emotion": "stable, clear-headed, purpose-driven with undercurrent of risk awareness",
+    "status": null,
+    "insights": null,
+    "goals": null,
+    "tags": [
+      "interview-prep",
+      "postponement-reframe",
+      "med-discontinuation",
+      "bipolar-cost-logic",
+      "sleep-routine-anchor",
+      "sam-extension-idea"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": null
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-02T21_49_55Z.json",
+    "timestamp": "2025-06-02T21:49:55Z",
+    "summary": "it was pretty normal day but it has anxious duration and it doesn't had any routine but it undergrain I am commerce I uploaded no video today but I am the tutor app",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "6",
+      "sleepQuality": "5",
+      "sleepDuration": "10",
+      "energyLevel": "6",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [
+        "I work on Tutor app created tutor job posting screen"
+      ],
+      "losses": [
+        "no routine",
+        "no video upload"
+      ],
+      "ideas": []
+    },
+    "goals": [
+      "Tutor app: create new screen"
+    ],
+    "tags": [
+      "stable",
+      "anxious",
+      "no routine"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "stable",
+      "anxious",
+      "tanvi induced frustration and anger"
+    ]
+  },
+  {
+    "file_path": "logs/daily/30-06-35.json",
+    "timestamp": "2025-06-30T23:00:37Z",
+    "summary": "",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "6",
+      "sleepDuration": "7",
+      "energyLevel": "4",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [
+        "Handled NEFT and money concerns without spiraling or overthinking\u2014tight leash on mental loop control.",
+        "Despite mental fatigue, maintained micro-execution with lithium awareness and conscious override of off-med impulse.",
+        "Challenged AI model limitations head-on, turning frustration into prompt iteration instead of distraction."
+      ],
+      "losses": [
+        "Spent pockets of time drifting in semi-nihilistic thoughts\u2014didn\u2019t escalate, but consumed emotional margin.",
+        "Voice expression and social confidence still stagnating\u2014no visible nudges despite awareness and intention.",
+        "Energy crash visible post 7 PM; failed to initiate any forward-motion work despite having 1\u20132 low-effort tasks queued."
+      ],
+      "ideas": []
+    },
+    "goals": [],
+    "tags": [],
+    "trigger_events": null,
+    "symptom_checklist": []
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-07T23_30_31Z.json",
+    "timestamp": "2025-06-07T23:30:31Z",
+    "summary": "At Neha di home as a result while day just went by non productive. Lot of debit accumulated realised and stes happend\n\n",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "7",
+      "sleepDuration": "8",
+      "energyLevel": "4",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [],
+      "losses": [
+        "non productive"
+      ],
+      "ideas": [
+        "Tutor app reinforced"
+      ]
+    },
+    "goals": [],
+    "tags": [
+      "stable",
+      "traveling",
+      "money issue",
+      "too much debt"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "no routine"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-05-28T23_41_43Z.json",
+    "timestamp": "2025-05-28T23:41:43Z",
+    "summary": "Completed the SAM app's current version and used it to log today \u2014 a major execution win. Managed YouTube tasks, including a short and Tanvi\u2019s channel video. However, sleep was severely lacking, and no progress on UPI or interview prep. Overall: productive output, low physical recovery.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "6",
+      "sleepQuality": "3",
+      "sleepDuration": "3",
+      "energyLevel": "7",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [
+        "Big win",
+        "Made project SAM app fully completed and have APK",
+        "Log will be added via app \u2014 even this one through SAM app (samstudio)"
+      ],
+      "losses": [
+        "No sleep at night; only 2 hours day sleep \u2014 not enough"
+      ],
+      "ideas": []
+    },
+    "goals": [
+      "YouTube \u2013 1 short upload",
+      "Tanvi channel video uploaded",
+      "SAM app current version complete",
+      "UPI prep (nothing done)",
+      "Interview prep (nothing done)"
+    ],
+    "tags": [
+      "#TraumaForgedInsight",
+      "#SystemOverSymptoms",
+      "#CodeAsMirror",
+      "#QuietSurvivalJob",
+      "#RAISE_MODEL"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": []
+  },
+  {
+    "file_path": "logs/daily/24-05-25.json",
+    "timestamp": "2025-05-18T23:30:00Z",
+    "summary": "Olx interview happened it was neutral. Tanvi came to visit. It was a surprise. Things are getting back on track with her.",
+    "mood": "Anxious and happy",
+    "emotion": "",
+    "status": {
+      "mood_level": "7",
+      "sleep_quality": "",
+      "sleep_duration": "0",
+      "energy_level": "6",
+      "stability_score": "4"
+    },
+    "insights": {
+      "wins": [
+        "Olx interview was decent"
+      ],
+      "losses": [
+        "No sleep last night compensated for few hours in day"
+      ],
+      "ideas": []
+    },
+    "goals": [
+      "Video upload done",
+      "interview prep none but gave interview",
+      "ubi prep - none"
+    ],
+    "tags": [
+      "Sleep-disruptions",
+      "dangerous mood environment",
+      "interview selection anticipation"
+    ],
+    "trigger_events": [],
+    "symptom_checklist": [
+      "Tongue pain",
+      "tiredness"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-13T02_34_05Z.json",
+    "timestamp": "2025-06-12T22:34:05Z",
+    "summary": "Day marked by a curious mental state \u2014 high inquiry, low action. You explored the idea of using local LLMs as agents, not just tools, revealing your deeper desire for autonomous digital thinking. Emotionally, the return of your father created a quiet emotional lift. Your mental energy was investigative but scattered.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "6",
+      "sleepDuration": "8",
+      "energyLevel": "3",
+      "stabilityScore": "7"
+    },
+    "insights": {
+      "wins": [
+        "dad returned felt better bonding",
+        "mentally poked deep into agent use cases \u2014 productive drift"
+      ],
+      "losses": [],
+      "ideas": [
+        "Use local LLMs as reflective daily agents \u2014 not just chatbots but memory-aware micro observers",
+        "Create a 'What's Changed?' agent that summarizes key diffs in code, notes, or thoughts",
+        "Build a lean insight pusher: daily one-liner from logs, emails, or behavior patterns"
+      ]
+    },
+    "goals": [],
+    "tags": [
+      "agents",
+      "self-reflection",
+      "LLMs",
+      "local-first"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": []
+  },
+  {
+    "file_path": "logs/daily/daily_2025-07-04T_23_29_35Z.json",
+    "timestamp": "2025-07-05T01:12:11Z",
+    "summary": "Slept light, ran stable. Built clear updates for SpendMirror UI\u2014tabs, graph UX, cursor prompts. Thought structurally. UX clarity emerged mid-fatigue. Explored RAG vs SAM relevance. Momentum held. Mental load rising but no slip.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "4",
+      "sleepDuration": "5",
+      "energyLevel": "6",
+      "stabilityScore": "8"
+    },
+    "insights": {
+      "wins": [
+        "Built SpendMirror graph-tab structure with usable UX vision.",
+        "Understood RAG-SAM separation and dismissed distraction.",
+        "No emotional spikes or loops despite fatigue."
+      ],
+      "losses": [
+        "Cursor logic still requires refinement.",
+        "Fatigue risk compounding if sleep not corrected soon."
+      ],
+      "ideas": [
+        "Separate utility-first build phase from AI-enhancement later.",
+        "Cursor prompting can be modularized per data-type."
+      ]
+    },
+    "goals": [
+      "Stabilize sleep to protect execution window.",
+      "Complete cursor-driven graph injection cleanly."
+    ],
+    "tags": [
+      "sam_build",
+      "spendmirror",
+      "rag_conflict",
+      "ux_design",
+      "cursor_prompting",
+      "low_sleep"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": []
+  },
+  {
+    "file_path": "logs/daily/27-05-25.json",
+    "timestamp": "2025-05-27T00:00:00Z",
+    "summary": "The day started off with a very late wake-up at 11:00 a.m. Everything felt unstructured and chaotic, but I consciously tried to dial things down. I didn\u2019t accomplish much in terms of output, but I spent time holding the day together, reflecting, and brainstorming around YouTube and new ideas. It wasn\u2019t a productive day, but I don\u2019t feel guilt\u2014I'm in the process of stabilizing myself.",
+    "mood": "hopeful",
+    "emotion": "contentment",
+    "status": {
+      "mood_level": "8",
+      "sleep_quality": "9",
+      "sleep_duration": "10",
+      "energy_level": "7",
+      "stability_score": "6"
+    },
+    "insights": {
+      "wins": [
+        "Mood is positive",
+        "Worked on videos",
+        "Thinking positively",
+        "Monitoring approach closely",
+        "Feeling better"
+      ],
+      "losses": [
+        "Wasn't able to follow structures",
+        "Not following any major goals",
+        "Things are fragmented"
+      ],
+      "ideas": [
+        "Create a Mistral model",
+        "Fine-tune the AI model for myself",
+        "Exploring AI fine-tuning as a side project"
+      ]
+    },
+    "goals": [
+      "Upload video"
+    ],
+    "tags": [
+      "late wake-up",
+      "low productivity",
+      "positive mindset",
+      "YouTube",
+      "AI projects",
+      "stabilizing",
+      "brainstorming",
+      "mental health"
+    ],
+    "trigger_events": [
+      "No response from job application",
+      "Racing thoughts noticed"
+    ],
+    "symptom_checklist": [
+      "Late wake-up affecting routine",
+      "Difficulty maintaining structure",
+      "Racing thoughts",
+      "Mental fragmentation",
+      "Mild anxiety or restlessness"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-20T00_08_26Z.json",
+    "timestamp": "2025-06-20T00:08:26Z",
+    "summary": "First real day at Wiom. Despite the mental strain of performance expectations and the long commute, energy was moderately stable. Social confidence is still a work in progress, but key wins include initiating conversations, building camaraderie, and managing emotional baseline throughout the day. Some anxiety around voice expression and eye contact remains, but no spirals or major distortions noted.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "8",
+      "sleepDuration": "6",
+      "energyLevel": "6",
+      "stabilityScore": "8"
+    },
+    "insights": {
+      "wins": [
+        "Good social interaction on onboarding day at Wiom",
+        "Started making friends",
+        "Maintained emotional baseline despite minor stress triggers",
+        "No emotional crashes or withdrawal patterns"
+      ],
+      "losses": [
+        "Lower oratory skills observed",
+        "Voice confidence and expressive strength still low"
+      ],
+      "ideas": [
+        "Experiment with 30-second high-expression drills before reaching office",
+        "Train one small social skill per day (e.g., strong eye contact for 5 seconds)"
+      ]
+    },
+    "goals": [
+      "Improve expressive tone and social presence at work",
+      "Anchor 1 clear win each workday for self-esteem continuity",
+      "Observe triggers without suppressing productive energy states"
+    ],
+    "tags": [
+      "social_confidence",
+      "first_day",
+      "expression_training",
+      "onboarding",
+      "self_monitoring"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "mild social anxiety",
+      "voice flatness",
+      "self-monitoring loop (non-destructive)"
+    ]
+  },
+  {
+    "file_path": "logs/daily/15-05-25.json",
+    "timestamp": "2025-05-15T23:30:00Z",
+    "summary": "A layered day with emotional events and tactical restraint. Interview scheduling lifted mood slightly. Unexpected meeting with Tanvi triggered warmth but no impulsive re-engagement. Calm presence maintained. Post-meeting mood remained steady but energy flattened. Attempted to study, but productivity was mood-driven, not standard-driven. Ended day with deep introspection about manic drift vs. self-punishment pattern. No spirals, but high alert self-awareness. Clarity intact.",
+    "mood": "hopeful baseline with cautionary self-check",
+    "emotion": "neutral to lightly warm, layered with inner dialogue",
+    "status": null,
+    "insights": null,
+    "goals": null,
+    "tags": [
+      "interview-track",
+      "tanvi-reentry",
+      "emotional-control",
+      "bipolar-awareness",
+      "manic-drift",
+      "self-punishment-pattern",
+      "study-drift"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": null
+  },
+  {
+    "file_path": "logs/daily/22-05-25.json",
+    "timestamp": "2025-05-22T23:30:00Z",
+    "summary": "Had a moderate interview\u2014uncertain if it went well. The rest of the day was average.",
+    "mood": "Neutral",
+    "emotion": "Irritation, anxious",
+    "status": {
+      "mood_level": "6",
+      "sleep_quality": "9",
+      "sleep_duration": "9",
+      "energy_level": "7",
+      "stability_score": "7"
+    },
+    "insights": {
+      "wins": [
+        "Gave Unacademy interview with best of me"
+      ],
+      "losses": [
+        "Health down",
+        "Cigarette bothering"
+      ],
+      "ideas": [
+        "I have not built 10 of SAM yet.",
+        "I should build an app for myself first before any new venture."
+      ]
+    },
+    "goals": [
+      {
+        "id": "g1",
+        "name": "YouTube - Short #1",
+        "progress": "Uploaded 1 short, missed daily goal",
+        "next_steps": "Plan and batch record upcoming shorts"
+      },
+      {
+        "id": "g2",
+        "name": "SAM App",
+        "progress": "Did ideation",
+        "next_steps": "Build MVP for personal use"
+      },
+      {
+        "id": "g3",
+        "name": "UBI Preparation",
+        "progress": "Skipped",
+        "next_steps": "Reschedule prep and set specific topics to cover"
+      },
+      {
+        "id": "g4",
+        "name": "Interview Preparation",
+        "progress": "Done",
+        "next_steps": "Review feedback and refine answers"
+      }
+    ],
+    "tags": [
+      "interview",
+      "hop",
+      "Anil's wedding"
+    ],
+    "trigger_events": [
+      "Traveling for Anil\u2019s wedding tomorrow is an anxiety trigger"
+    ],
+    "symptom_checklist": [
+      "Tonsil pain",
+      "Anxiety of travel"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-27T23_52_44Z.json",
+    "timestamp": "2025-06-27T23:52:44Z",
+    "summary": "Day marked by cognitive load and existential rumination. Focused on mental math foundations like squares, roots, and tables\u2014driven by a deep sense that calculation mastery might anchor future competence. Underneath, there's a low-burn fear of irrelevance and private job instability, triggering thoughts about government exams. Despite low mood and energy, progress was made. Emotional flatness persisted, but no breakdown.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "4",
+      "sleepQuality": "7",
+      "sleepDuration": "7",
+      "energyLevel": "4",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [
+        "Stuck to quant foundation work despite lack of motivation",
+        "Avoided emotional collapse even while brain felt foggy",
+        "Maintained internal clarity: this is a transition phase, not an endpoint"
+      ],
+      "losses": [
+        "Low emotional drive and social connection",
+        "Persistent questioning of future relevance and job market anxiety",
+        "Felt isolated in ambition\u2014uncertain if these steps will pay off"
+      ],
+      "ideas": [
+        "Mental calculation as both a skill and emotional anchor\u2014repetitive math may calm the chaos",
+        "Security may come less from external job and more from ruthless internal simplification",
+        "Use SAM-like protocol for government prep too: focus on triggers, weekly loops, AI feedback"
+      ]
+    },
+    "goals": [
+      "Continue mastering math tables, squares, roots till automatic",
+      "Design a prep calendar with clear milestones (Quant > Reasoning > GK)",
+      "Let the next 30 days be execution\u2014not existential reflection"
+    ],
+    "tags": [
+      "quant-prep",
+      "low-energy",
+      "job-security-fear",
+      "discipline-over-motivation"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "brain fog",
+      "emotional numbness",
+      "fear loops",
+      "mild anhedonia",
+      "inner restlessness"
+    ]
+  },
+  {
+    "file_path": "logs/daily/18-05-25.json",
+    "timestamp": "2025-05-18T23:30:00Z",
+    "summary": "Followed structured routine throughout the day \u2014 video uploaded, reflection held, food intake managed. Emotional layer surfaced in the evening, not as a spike but as availability. Pacing was noted but not compulsive. Internal energy shifted into light fastness, but cognitive boundaries held. Minor friction emerged around lamotrigine withdrawal interpretation, acknowledged without spiral. Evaluated mood score logic, clarified scale, and corrected overclassification. Ended the day with grounded reflection and intact system. Routine proved its containment role again.",
+    "mood": "5.0 \u2014 functional, stable, slightly elevated pace neutralized by awareness",
+    "emotion": "low-friction, mild clarity, emotionally permeable in late phase",
+    "status": null,
+    "insights": null,
+    "goals": null,
+    "tags": [
+      "routine-stability",
+      "pacing-monitor",
+      "emotion-available",
+      "fastness-aware",
+      "mood-scale-correction",
+      "self-check",
+      "video-push"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": null
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-04T23_38_28Z.json",
+    "timestamp": "2025-06-04T23:38:28Z",
+    "summary": "today was a plan but non productive day I am confused while applying whether mention my salary is 10 lpa or 20 lpa. life is no certain direction but I have an interview in Delhi on Friday and tonight I'll be leaving for Delhi and it will be a travel it will disturb my routine and all but have nothing good but nothing that bad is well",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "6",
+      "sleepDuration": "10",
+      "energyLevel": "2",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [
+        "stayed stable"
+      ],
+      "losses": [
+        "no routine",
+        "no goal followed"
+      ],
+      "ideas": []
+    },
+    "goals": [],
+    "tags": [
+      "stable",
+      "no routine",
+      "non productive"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "no routine"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-07-05T23_59_35Z.json",
+    "timestamp": "2025-07-06T00:36:10Z",
+    "summary": "Day was emotionally heavy. Call with Banvi brought unresolved patterns back into view \u2014 emotional mismatch, repeated conflict, and final clarity on incompatibility. Spent much of the day refracting emotionally and cleaning code. Cursor workflow felt misaligned, leading to frustration. Mood was low despite effort. Felt detached and irritable. No major forward push on SAM or SpendMirror; internal re-alignment dominated.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "6",
+      "sleepQuality": "7",
+      "sleepDuration": "6",
+      "energyLevel": "7",
+      "stabilityScore": "5"
+    },
+    "insights": {
+      "wins": [
+        "Maintained emotional clarity during heated call \u2014 didn\u2019t collapse or rescue.",
+        "Did internal cleanup of emotional identity and some code refactoring despite low mood."
+      ],
+      "losses": [
+        "Cursor workflow felt ineffective due to lack of direction and prep.",
+        "Emotional residue from Banvi conversation impacted focus and execution."
+      ],
+      "ideas": [
+        "Cursor only amplifies clarity \u2014 it doesn\u2019t create it. Plan, then prompt.",
+        "Emotional truth isn\u2019t emotional health. Process still needed after clarity."
+      ]
+    },
+    "goals": [
+      "Do one tangible forward task on SAM v2 or SpendMirror (not cleanup).",
+      "Reassess Cursor workflow: define task better before opening session."
+    ],
+    "tags": [
+      "emotional_clarity",
+      "cursor",
+      "banvi",
+      "code_cleanup",
+      "frustration"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "mild emotional detachment",
+      "frustration",
+      "mental fatigue",
+      "low social desire"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-21T01_49_59Z.json",
+    "timestamp": "2025-06-20T23:49:59Z",
+    "summary": "A layered day of emotional and strategic self-inquiry. Explored internal conviction about being exceptional \u2014 emotionally and logically \u2014 and questioned whether it's grounded or delusional. Came out with stronger confidence in inner truth, but also recognized hidden entitlement. Parallelly, re-evaluated AI-focused roles and job paths; rejected shallow job opportunities not aligned with deep creative or systems thinking. The day rebalanced identity with ambition, truth with patience, and ego with output.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "6",
+      "sleepQuality": "8",
+      "sleepDuration": "6",
+      "energyLevel": "6",
+      "stabilityScore": "6"
+    },
+    "insights": {
+      "wins": [
+        "Reaffirmed that emotional sharpness and logical clarity are not delusions \u2014 they are under-leveraged assets.",
+        "Didn\u2019t numb or distract when deeper self-worth questions arose; stayed in the ring.",
+        "Filtered AI job listings not for comfort, but for alignment \u2014 rejected dopamine-chasing roles."
+      ],
+      "losses": [
+        "Mild frustration at lack of immediate role-fit in AI space \u2014 temptation to feel 'underutilized'.",
+        "Caught subtle internal resentment about progress speed \u2014 a form of disguised entitlement.",
+        "Energy dipped post-momentum \u2014 still adjusting to the work-life intensity mix."
+      ],
+      "ideas": [
+        "Create a heuristic to evaluate AI roles: logic density, real-world leverage, identity alignment.",
+        "Start prototyping mini-LLM tools again \u2014 solo mode \u2014 with no audience in mind.",
+        "Accept discomfort as rent paid by those who are 1-in-10,000 \u2014 and act accordingly."
+      ]
+    },
+    "goals": [
+      "Build or ship *something* solo this week \u2014 even small but real. Output > overthinking.",
+      "Create a short list of \u2018acceptable roles\u2019 and mark must-have conditions for alignment.",
+      "Anchor this clarity emotionally \u2014 no need to wait for another breakdown to remember it."
+    ],
+    "tags": [
+      "identity-check",
+      "ai-career",
+      "emotional-truth",
+      "clarity-vs-entitlement",
+      "role-alignment",
+      "high-agency-day"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "Mild performance anxiety while browsing job roles.",
+      "No manic tendencies, but noticeable intensity spikes during identity reflection.",
+      "Emotional fatigue post insight loop \u2014 common after heavy truth days."
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-24T22_57_45Z.json",
+    "timestamp": "2025-06-24T22:57:45Z",
+    "summary": "Felt emotionally stable and happy today. Decision to prepare seriously for upcoming SO exams gave clarity and purpose. Enjoyed meaningful conversations with dad, Tanvi, and sister. Stability seems tied to recent job routine, but there\u2019s awareness that it could be temporary. Preparation feels like the core anchor \u2014 a deliberate step toward future stability and freedom to pursue personal passions with confidence.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "7",
+      "sleepDuration": "7",
+      "energyLevel": "5",
+      "stabilityScore": "8"
+    },
+    "insights": {
+      "wins": [
+        "Decided to start Quants prep with clarity of purpose.",
+        "Felt genuinely happy and stable.",
+        "Meaningful calls with family members."
+      ],
+      "losses": [],
+      "ideas": [
+        "Use preparation as an identity anchor during unstable or low-motivation days.",
+        "Track emotional state versus prep consistency to measure true internal grounding.",
+        "Prep is not the end \u2014 it\u2019s a leverage play to earn long-term freedom to pursue your real passions."
+      ]
+    },
+    "goals": [
+      "Crack upcoming SO exam through consistent preparation.",
+      "Maintain daily study momentum regardless of mood.",
+      "Build post-exam runway to explore/build passion projects with reduced pressure."
+    ],
+    "tags": [
+      "stability",
+      "quants-prep",
+      "family",
+      "clarity",
+      "emotional-high",
+      "freedom-path"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": []
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-01T23_04_42Z.json",
+    "timestamp": "2025-06-01T23:04:42Z",
+    "summary": "it was normal day, stable but no progress ",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "7",
+      "sleepDuration": "10",
+      "energyLevel": "6",
+      "stabilityScore": "5"
+    },
+    "insights": {
+      "wins": [
+        "no slacking"
+      ],
+      "losses": [
+        "no progress"
+      ],
+      "ideas": []
+    },
+    "goals": [
+      "non productive"
+    ],
+    "tags": [
+      "non productive"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "elevated energy"
+    ]
+  },
+  {
+    "file_path": "logs/daily/20-05-25.json",
+    "timestamp": "2025-05-21T23:30:00Z",
+    "summary": "Faced the first round of Unacademy interview today. Performance was rated as average \u2014 neither strong nor disqualifying. Accepted the outcome without emotional overreaction. Scheduled for the second round tomorrow. Overall energy felt better compared to recent weeks, possibly due to Lamotrigine effect. Managed to study and reflect without major drift. Routine held. No identity agitation.",
+    "mood": "5.5 \u2014 slight fatigue but no drift, emotionally grounded, subtle energy return",
+    "emotion": "flat-neutral baseline with brief spikes of anticipation and self-check; no elevation, no spiral",
+    "status": null,
+    "insights": null,
+    "goals": null,
+    "tags": [
+      "unacademy-interview",
+      "bipolar-spectrum-5.5",
+      "stability-return",
+      "medication-effect",
+      "routine-maintenance",
+      "neutral-performance",
+      "android-prep"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": null
+  },
+  {
+    "file_path": "logs/daily/17-05-25.json",
+    "timestamp": "2025-05-17T23:30:00Z",
+    "summary": "Started day at 8:00 AM \u2014 anchor held. Video upload completed early. Watched T-34, which led to a reflective, system-mapping mental drift. Country analogies and global arcs were explored with creative intensity \u2014 flagged by system as emotionally charged but not destabilizing. Reframed those sessions as cognitive play rather than drift. Added strict routine blocks with deliberate friction. Decision framed as protective, not perfectionist. Explicit acknowledgment that structure is now serving the role previously handled by mood stabilizer buffer zones. No identity dislocation, but high introspective activity.",
+    "mood": "6.5 \u2014 high introspection with tight containment",
+    "emotion": "neutral-core with occasional elevation spikes; all defused through awareness",
+    "status": null,
+    "insights": null,
+    "goals": null,
+    "tags": [
+      "routine-anchoring",
+      "drift-awareness",
+      "cognitive-overclock",
+      "self-design",
+      "bipolar-spectrum-6.5",
+      "controlled-experimentation",
+      "daily-video-discipline"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": null
+  },
+  {
+    "file_path": "logs/daily/daily_2025-07-02T00_23_59Z.json",
+    "timestamp": "2025-07-03T00:38:30Z",
+    "summary": "Birthday spent in calm momentum. Fixed two long-standing critical bugs \u2014 received peer appreciation. Initiated a conversation with the AI team manager about transitioning, though no immediate openings. Avoided celebration but felt okay. Made focused progress on the SAMStudio app \u2014 execution continues. A quiet but foundational day.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "4",
+      "sleepDuration": "7",
+      "energyLevel": "5",
+      "stabilityScore": "7"
+    },
+    "insights": {
+      "wins": [
+        "Resolved two high-impact legacy bugs.",
+        "Received peer recognition for technical contribution.",
+        "Maintained composure and rhythm despite emotional significance of the day.",
+        "Progressed steadily on SAMStudio build."
+      ],
+      "losses": [
+        "AI team is currently full \u2014 no immediate internal transition possible."
+      ],
+      "ideas": [
+        "Keep subtle check-ins with the AI manager to stay top of mind for future openings.",
+        "Use birthday week as a checkpoint \u2014 refine SAMStudio roadmap with a 90-day lens."
+      ]
+    },
+    "goals": [
+      "Finish core logging and analytics module for SAMStudio by Sunday.",
+      "Prepare lightweight AI portfolio or demos to support future internal shifts."
+    ],
+    "tags": [
+      "bugfix",
+      "peer_recognition",
+      "birthday",
+      "ai_interest",
+      "samstudio_progress"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": []
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-29T23_16_44Z.json",
+    "timestamp": "2025-06-29T23:56:26Z",
+    "summary": "Execution dragging. Momentum inconsistent. System in place but underutilized. High awareness, low leverage.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "5",
+      "sleepQuality": "7",
+      "sleepDuration": "7",
+      "energyLevel": "5",
+      "stabilityScore": "4"
+    },
+    "insights": {
+      "wins": [
+        "Maintaining daily interaction with structured system",
+        "Caught emotional drift before full crash"
+      ],
+      "losses": [
+        "Low-value input cycles (overthinking, redundant queries)",
+        "SAM and execution tools not fully weaponized past awareness"
+      ],
+      "ideas": [
+        "Harden 'Brutal Mode' into callable function inside SAM",
+        "Score each day on input vs output delta"
+      ]
+    },
+    "goals": [
+      "Ship 1 concrete Tutor App feature this week",
+      "Automate SAM weekly summary generation"
+    ],
+    "tags": [
+      "drift-risk",
+      "system-awareness",
+      "execution-gap"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "mild FOMO",
+      "inconsistent focus blocks",
+      "idea overload without action"
+    ]
+  },
+  {
+    "file_path": "logs/daily/daily_2025-06-16T23_16_52Z.json",
+    "timestamp": "2025-06-16T23:16:52Z",
+    "summary": "First day at Wiom. Completed joining formalities. Woke up early and started day at 6 AM. Long commute (2 hours each side in metro) made it a heavy, draining day. Felt impact of social low-confidence\u2014low voice, trouble with eye contact, and flat expressions were noticeable. Energy dipped early but managed to push through. Stability okay but underlying tension present.",
+    "mood": null,
+    "emotion": null,
+    "status": {
+      "moodLevel": "4",
+      "sleepQuality": "7",
+      "sleepDuration": "6",
+      "energyLevel": "3",
+      "stabilityScore": "5"
+    },
+    "insights": {
+      "wins": [
+        "Showed up and completed all joining formalities despite early start and long commute"
+      ],
+      "losses": [
+        "Social confidence hit hard\u2014voice low, eye contact hard, lack of expressive communication"
+      ],
+      "ideas": [
+        "Start building small behavioral anchors during commute or breaks\u2014e.g., micro voice exercises or eye contact drills"
+      ]
+    },
+    "goals": [
+      "Survive this first week without burnout",
+      "Start observing social patterns and triggers without judgment"
+    ],
+    "tags": [
+      "joining",
+      "work",
+      "commute",
+      "social-anxiety",
+      "first-day"
+    ],
+    "trigger_events": null,
+    "symptom_checklist": [
+      "low voice",
+      "difficulty maintaining eye contact",
+      "lack of facial expression"
+    ]
+  }
+]
