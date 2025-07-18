@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-05-27T00:00:00Z",
+  "summary": "The day started off with a very late wake-up at 11:00 a.m. Everything felt unstructured and chaotic, but I consciously tried to dial things down. I didn\u2019t accomplish much in terms of output, but I spent time holding the day together, reflecting, and brainstorming around YouTube and new ideas. It wasn\u2019t a productive day, but I don\u2019t feel guilt\u2014I'm in the process of stabilizing myself.",
+  "mood": "hopeful",
+  "emotion": "contentment",
+  "status": {
+    "mood_level": "8",
+    "sleep_quality": "9",
+    "sleep_duration": "10",
+    "energy_level": "7",
+    "stability_score": "6"
+  },
+  "insights": {
+    "wins": [
+      "Mood is positive",
+      "Worked on videos",
+      "Thinking positively",
+      "Monitoring approach closely",
+      "Feeling better"
+    ],
+    "losses": [
+      "Wasn't able to follow structures",
+      "Not following any major goals",
+      "Things are fragmented"
+    ],
+    "ideas": [
+      "Create a Mistral model",
+      "Fine-tune the AI model for myself",
+      "Exploring AI fine-tuning as a side project"
+    ]
+  },
+  "goals": [
+    "Upload video"
+  ],
+  "tags": [
+    "late wake-up",
+    "low productivity",
+    "positive mindset",
+    "YouTube",
+    "AI projects",
+    "stabilizing",
+    "brainstorming",
+    "mental health"
+  ],
+  "trigger_events": [
+    "No response from job application",
+    "Racing thoughts noticed"
+  ],
+  "symptom_checklist": [
+    "Late wake-up affecting routine",
+    "Difficulty maintaining structure",
+    "Racing thoughts",
+    "Mental fragmentation",
+    "Mild anxiety or restlessness"
+  ],
+  "triggerEvents": [],
+  "symptomChecklist": []
+}

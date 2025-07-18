@@ -20,7 +20,9 @@
   "goals": [
     "non productive"
   ],
-  "tags": ["non productive"],
+  "tags": [
+    "non productive"
+  ],
   "triggerEvents": [
     "no active triggers"
   ],

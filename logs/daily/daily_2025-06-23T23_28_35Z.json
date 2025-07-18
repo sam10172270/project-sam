@@ -15,13 +15,13 @@
       "Defined lean syllabus that matches cognitive ROI: simplification, series, quadratics, basic DI, core arithmetic"
     ],
     "losses": [
-      "No quant drill was actually executed today — still in prep-the-prep loop",
+      "No quant drill was actually executed today \u2014 still in prep-the-prep loop",
       "Past app-hopping behavior resurfaced as doubt while evaluating Unacademy"
     ],
     "ideas": [
-      "Build own offline Flutter app to log quant drills like SAM — same mental pattern reuse",
-      "Use JSONL logs to track quant prep as code not just effort — version control mindset",
-      "Design quant flashcards and Q-tracker with emotional triggers (e.g., 'I’m a clarity-hitter, not a syllabus-eater')"
+      "Build own offline Flutter app to log quant drills like SAM \u2014 same mental pattern reuse",
+      "Use JSONL logs to track quant prep as code not just effort \u2014 version control mindset",
+      "Design quant flashcards and Q-tracker with emotional triggers (e.g., 'I\u2019m a clarity-hitter, not a syllabus-eater')"
     ]
   },
   "goals": [
