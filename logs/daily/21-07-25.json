@@ -1,6 +1,6 @@
 {
   "timestamp": "2025-07-22T00:29:43Z",
-  "summary": "A mentally turbulent day marked by intense emotional swings, work-related stress, and relationship conflict. Experienced panic attacks, suicidal ideation, and deep personal unrest. Despite this, managed to execute office work and reflected meaningfully on patterns and coping mechanisms.",
+  "summary": "A mentally turbulent day marked by emotional turbulence, panic attacks, and a resurfacing of old relationship wounds. While office work continued outwardly, internally the day was shaped by deep personal disturbance and a sense of futility. A conflict with Tanvi triggered a chain of emotional events, including suicidal ideation and feelings of helplessness. Despite the chaos, some grounding reflections and physical execution were maintained.",
   "status": {
     "moodLevel": "2",
     "sleepQuality": "4",
@@ -10,44 +10,44 @@
   },
   "insights": {
     "wins": [
-      "Despite internal chaos, continued work execution with reasonable energy.",
-      "Reduced cigarette count to 5–10, showing progress from previous highs."
+      "Despite severe internal distress, continued work execution with decent energy.",
+      "Cigarette count reduced to 5–10, a positive shift from prior highs."
     ],
     "losses": [
-      "Triggered into a rage-panic spiral due to office pressure and Tanvi conflict.",
-      "Experienced suicidal ideation and deep emotional dysregulation.",
-      "Fell back into old relational patterns (manipulation, no direction, resentment)."
+      "Panic attacks and suicidal ideation triggered by emotional conflict.",
+      "Heavy emotional dysregulation caused by resurfacing unresolved dynamics with Tanvi.",
+      "Tanvi reverted to old manipulative patterns, lacking direction or emotional accountability, which intensified your distress."
     ],
     "ideas": [
-      "Recognized the bounce-back ability after panic episodes, even without full emotional resolution.",
-      "Noted the danger of accumulated small frustrations leading to breakdown.",
-      "Began observing that social anxiety and work stress are entangled in a repeating loop."
+      "Recognized your ability to 'bounce back' behaviorally from panic — though emotionally unresolved, functional self still acted.",
+      "Clearer awareness that small triggers accumulate into spirals; not isolated events but parts of a pressure loop.",
+      "Identified the need to disambiguate your own mental states from inherited emotional narratives in the relationship."
     ]
   },
   "goals": [
-    "Find actionable strategies to interrupt destructive relational patterns.",
-    "Stabilize emotional volatility without depending on suppression or pure willpower.",
-    "Continue reducing cigarettes as a metric of self-control progress."
+    "Create distance between your emotional safety and Tanvi's emotional volatility.",
+    "Deepen emotional regulation strategies not reliant on suppression or pure willpower.",
+    "Sustain cigarette reduction as an anchor of personal control."
   ],
   "tags": [
     "panic attack",
+    "emotional trigger",
     "relationship conflict",
     "bipolar low",
-    "emotional spiral",
-    "work stress",
-    "resilience",
-    "self-harm thoughts"
+    "work execution",
+    "emotional survival",
+    "suicidal thoughts"
   ],
   "triggerEvents": [
-    "Tanvi's reaction triggered unresolved patterns and panic.",
-    "Office workload and emotional turbulence caused cognitive overload."
+    "Tanvi reverted to a familiar manipulative and directionless pattern during conflict.",
+    "Office stress combined with emotional overload to cause panic attack."
   ],
   "symptomChecklist": [
     "panic symptoms",
     "suicidal ideation",
     "emotional dysregulation",
-    "cognitive overload",
-    "relationship distress",
-    "intrusive thoughts"
+    "relational trauma",
+    "internal collapse",
+    "exhaustion despite external function"
   ]
 }
