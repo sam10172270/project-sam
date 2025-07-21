@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-07-22T00:29:43Z",
+  "summary": "A mentally turbulent day marked by intense emotional swings, work-related stress, and relationship conflict. Experienced panic attacks, suicidal ideation, and deep personal unrest. Despite this, managed to execute office work and reflected meaningfully on patterns and coping mechanisms.",
+  "status": {
+    "moodLevel": "2",
+    "sleepQuality": "4",
+    "sleepDuration": "7",
+    "energyLevel": "5",
+    "stabilityScore": "2"
+  },
+  "insights": {
+    "wins": [
+      "Despite internal chaos, continued work execution with reasonable energy.",
+      "Reduced cigarette count to 5–10, showing progress from previous highs."
+    ],
+    "losses": [
+      "Triggered into a rage-panic spiral due to office pressure and Tanvi conflict.",
+      "Experienced suicidal ideation and deep emotional dysregulation.",
+      "Fell back into old relational patterns (manipulation, no direction, resentment)."
+    ],
+    "ideas": [
+      "Recognized the bounce-back ability after panic episodes, even without full emotional resolution.",
+      "Noted the danger of accumulated small frustrations leading to breakdown.",
+      "Began observing that social anxiety and work stress are entangled in a repeating loop."
+    ]
+  },
+  "goals": [
+    "Find actionable strategies to interrupt destructive relational patterns.",
+    "Stabilize emotional volatility without depending on suppression or pure willpower.",
+    "Continue reducing cigarettes as a metric of self-control progress."
+  ],
+  "tags": [
+    "panic attack",
+    "relationship conflict",
+    "bipolar low",
+    "emotional spiral",
+    "work stress",
+    "resilience",
+    "self-harm thoughts"
+  ],
+  "triggerEvents": [
+    "Tanvi's reaction triggered unresolved patterns and panic.",
+    "Office workload and emotional turbulence caused cognitive overload."
+  ],
+  "symptomChecklist": [
+    "panic symptoms",
+    "suicidal ideation",
+    "emotional dysregulation",
+    "cognitive overload",
+    "relationship distress",
+    "intrusive thoughts"
+  ]
+}
