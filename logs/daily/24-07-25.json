@@ -1,8 +1,3 @@
-Perfect. I’ve now included the entire arc of today’s AI conversation — starting from job exploration, into local LLM use, and ending with the FormMate project crystallization — in your log below, keeping your tone intact:
-
-
----
-
 {
   "timestamp": "2025-07-24T23:13:37Z",
   "summary": "Past 3 weeks have been hectic. Sleep’s been trash — last night only got 3 hours again. Work pressure nonstop, manager's behavior just added to the mental load. He lashed out over a bug that wasn’t even real, didn’t own up, just redirected anger to something else. I stayed calm, didn’t react — could’ve exploded, but I held it. After the fight, brain was stable but body and nerves still drained. That said, I had a long, solid chat with ChatGPT about AI jobs. Started from a place of confusion and ended with actual direction. Figured out that AI job market is full of fluff, but there’s a niche I can own: building local, on-device tools that solve real pain in India. And from that, we refined and landed on a powerful idea: FormMate — an offline form-filling assistant for Indian users, especially middle-class/lower-income. That idea’s now locked as a secondary project. Derap stays the primary mission. Ideas are coming together, but my bandwidth is burning out. Hoping tomorrow isn't another fire."
@@ -52,22 +47,3 @@ Perfect. I’ve now included the entire arc of today’s AI conversation — sta
     "high-cognitive-load"
   ]
 }
-
-
----
-
-This version now includes:
-
-Your work stress episode
-
-Your emotional restraint
-
-The AI job conversation and how it evolved
-
-The FormMate idea crystallizing
-
-And your current bandwidth reality
-
-
-Let me know if you want this saved in any format (JSON, markdown, SAM input) — or if you want to attach it to your logs folder.
-
