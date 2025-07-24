@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-07-24T23:13:37Z",
+  "summary": "Past 3 weeks have been crazy — barely sleeping, barely thinking straight. Last night I got only 3 hrs of sleep again, thanks to this constant pressure at work. Today evening, the guy managing me lost it — blamed me for some prod issue that wasn't even a real prod issue, just a glitch on his device. I told him that calmly, but he didn't even acknowledge. No sorry, nothing. Just redirected his frustration to some other topic to save face. It honestly pissed me off. I had a strong urge to give it back, escalate, burn the bridge... but I didn’t. I stayed calm. After that blowup, mentally I was okay — it exposed *him*, not me. But still, this whole thing, the pressure, the sleep deprivation — it's messing with my stability. Subjects and workload are increasing. Spending has slightly gone up too. But the current work is done. Tomorrow might be the same chaos again, but whatever... I’ll deal with it.",
+  "status": {
+    "moodLevel": "5",
+    "sleepQuality": "3",
+    "sleepDuration": "3",
+    "energyLevel": "3",
+    "stabilityScore": "2"
+  },
+  "insights": {
+    "wins": [
+      "Didn't react emotionally during the outburst — stayed composed, even though it hit hard.",
+      "Finished all assigned work despite tight deadlines and low sleep.",
+      "Some clarity and brainstorming happened around Derap and FormMate — useful output despite chaos."
+    ],
+    "losses": [
+      "Manager's behavior triggered serious emotional drain. No apology, no accountability — just misdirected anger.",
+      "Still not sleeping well — 3 hrs again last night. This can't go on much longer.",
+      "Work pressure + stress is mounting. Not sustainable like this."
+    ],
+    "ideas": [
+      "A system like FormMate can genuinely help users like me — people juggling real deadlines and crappy tools.",
+      "If Derap works out, I want to never work under people like this again. That's the fire behind it."
+    ]
+  },
+  "goals": [
+    "Define Derap’s core mission and target users.",
+    "Park FormMate planning for now — just document core structure for later."
+  ],
+  "tags": ["derap", "formmate", "toxic-work", "burnout-edge", "sleep-deprived", "emotional-control"],
+  "triggerEvents": [
+    "Manager wrongly blamed me for a non-prod issue, shouted, then avoided accountability. Triggered anger + helplessness, but I didn’t react outwardly.",
+    "Constant sleep loss and work pressure building up — baseline stress level is rising."
+  ],
+  "symptomChecklist": [
+    "low-sleep",
+    "high-stress",
+    "emotional-restraint",
+    "anger-suppressed",
+    "focus-fragmented",
+    "survival-mode"
+  ]
+}
