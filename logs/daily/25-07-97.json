@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-07-25T23:16:51Z",
+  "summary": "High-functioning but emotionally disconnected. Completed intense office work with sustained energy, possibly due to medication (bupropion). Mood was flat with chest ache, especially after work hours. Social detachment noted—triggered mildly by a colleague's comment about lack of laughter. No acute distress, but sense of hollowness and reduced emotional salience.",
+  "status": {
+    "moodLevel": "4",
+    "sleepQuality": "7",
+    "sleepDuration": "8",
+    "energyLevel": "4",
+    "stabilityScore": "2"
+  },
+  "insights": {
+    "wins": ["Sustained work output despite inner detachment", "Clarity in self-analysis of current state"],
+    "losses": ["No emotional feedback from completed work", "Discomfort with social perception of being emotionally distant"],
+    "ideas": ["Current state may not be depression or mania—could be neuroadaptive plateau post-med change"]
+  },
+  "goals": ["Track daily mood-energy-sleep for next 10 days", "Set hard upper cap on work hours", "Plan psychiatrist check-in within 2 weeks if state persists"],
+  "tags": ["mixed-state", "post-bupropion", "high-functioning-numbness", "emotional-disconnect", "clarity-log"],
+  "triggerEvents": ["Colleague remark: 'Why don’t you laugh?' triggered emotional self-awareness"],
+  "symptomChecklist": ["Emotional blunting", "Chest ache", "Social detachment", "Internal sense of unreality", "No clear joy or sadness"]
+}
