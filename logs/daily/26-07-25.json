@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-07-26T23:56:54Z",
+  "summary": "Continued work on the SAM project late into the night, successfully building and testing a RAG-based system with a local Mistral 7B model. Accessed results from phone via Streamlit. Felt deeply productive and energized, though sleep routine was disrupted. Slept around 4:00 a.m., woke at 10–11 a.m. with approximately 6 hours of rest. Maintained elevated mood and high energy throughout the day while working on the app. Aware of possible hypomanic state but maintaining control due to having Saturday free.",
+  "status": {
+    "moodLevel": "7",
+    "sleepQuality": "6",
+    "sleepDuration": "6",
+    "energyLevel": "8",
+    "stabilityScore": "4"
+  },
+  "insights": {
+    "wins": [
+      "Successfully implemented end-to-end local RAG system with personal logs and Mistral 7B",
+      "Able to access and interact with logs meaningfully via mobile"
+    ],
+    "losses": [
+      "Disrupted sleep routine by staying up until 4:00 a.m."
+    ],
+    "ideas": [
+      "If elevated mode is controlled and channeled properly on weekends, it can yield deep creative progress without destabilizing routine"
+    ]
+  },
+  "goals": [
+    "Try to restore regular sleep cycle by Sunday night",
+    "Log reflections earlier in the day tomorrow to detect mood drift"
+  ],
+  "tags": [
+    "SAM-development",
+    "hypomania-awareness",
+    "AI-personal-assistant",
+    "RAG-system",
+    "sleep-disruption"
+  ],
+  "triggerEvents": [
+    "Excitement from pilot success and productivity surge"
+  ],
+  "symptomChecklist": [
+    "elevated-mood",
+    "reduced-sleep",
+    "hyperfocus",
+    "high-energy"
+  ]
+}
